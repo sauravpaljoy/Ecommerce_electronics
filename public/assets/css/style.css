@@ -46,7 +46,7 @@ body {
     flex-grow: 1;
     display: flex;
     background: #f57f25;
-    border-radius: 25px;
+    border-radius: 24px;
     overflow: hidden;
     height: 45px;
 }
